@@ -13,6 +13,7 @@ public class Arrays {
         firstArray.equals(firstArray);
         for (int i = 0 ; i < firstArray.size(); i++){
             System.out.println(firstArray.get(i));
+            System.out.println();
         }
     }
 }
